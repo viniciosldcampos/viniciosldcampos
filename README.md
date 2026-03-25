@@ -4,13 +4,46 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com/?lines=Seja+bem+vindo!;Como+posso+te+ajudar?&duration=6000&repeat=false" />
 </p>
-  <p>🔭 Apaixonado por tecnologia</p>
-  <p>🌱 Estudante de Analise e Desenvolvimento de Sistemas</p>
+<div align="right">
+  <sub>📍 Sumaré - SP | Brasil</sub>
+</div>
 
-<h3>Tecnologias</h3>
+<h3>FullStack Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0B5455,50:00f2fe,100:003233"/>
+<h4>👨‍💻 Sobre</h4>
+<p> 👋 Sou Análise e Desenvolvimento de Sistemas</strong>, formado em 
+<strong>Administração</strong> e apaixonado por tecnologia e dados.
+</p>
+<p>
+📊 Tenho mais de <strong>5 anos de experiência</strong> em áreas administrativas com foco em 
+dados, controle orçamentário e análise de informações financeiras e operacionais.
+</p>
+<p>💼 Atualmente trabalho na <strong>PUC-Campinas</strong>, atuando com:</p>
+<ul>
+  <li>Criação de dashboards no Power BI e Excel</li>
+  <li>Análise orçamentária e financeira</li>
+  <li>Relatórios gerenciais</li>
+  <li>Controle de indicadores</li>
+  <li>Análise de dados operacionais</li>
+</ul>
+<p>
+🚀 Interesse em:
+</p>
+<ul>
+  <li>Desenvolvimento Full-Stack</li>
+  <li>Ciência de Dados</li>
+  <li>Automação de processos</li>
+</ul>
+<p>
+<p> 📚 Sempre aprendendo e evoluindo na área de tecnologia </p>
 
-<h3>Social</h3>
-    <a href="https://instagram.com/viniciosldcampos">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0B5455,50:00f2fe,100:003233"/>
+
+<h4>Tecnologias</h4>
+        <img src="./assets/tecnologias.png" height="40" />
+
+<h4>Social</h4>
+    <a href="https://instagram.com/vinicius.ldcampos">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/vinicios-leite-de-campos/">
@@ -19,8 +52,9 @@
     <a href="https://discord.gg/viniciosldcampos">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
     </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0B5455,50:00f2fe,100:003233"/>
 
-<h3>Desenvolvimento</h3>
+<h4>Desenvolvimento</h4>
     <a href="https://github.com/viniciosldcampos">
         <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api?username=viniciosldcampos&theme=ambient_gradient&show_icons=true&bg_color=45,6685D9,644FAA"/>
     </a>
@@ -28,7 +62,7 @@
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciosldcampos&bg_color=45,6685D9,644FAA&title_color=ffffff&text_color=ffffff"/>
     </a>
 
-<h3>Contribuições</h3>
+<h4>Contribuições</h4>
     <div>
       <img width="750em" src="https://github-readme-activity-graph.vercel.app/graph?username=viniciosldcampos&theme=react-dark" width="100%"/>
     </div>
