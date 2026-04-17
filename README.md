@@ -43,15 +43,21 @@ dados, controle orçamentário e análise de informações financeiras e operaci
         <img src="./assets/tecnologias.png" height="40" />
 
 <h4>Social</h4>
+<p align="left">
+  <span>
     <a href="https://instagram.com/vinicius.ldcampos">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right: 10px;"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/vinicios-leite-de-campos/">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right: 10px;"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://discord.gg/viniciosldcampos">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/>
     </a>
+  </span>
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0B5455,50:00f2fe,100:003233"/>
 
 <h4>Desenvolvimento</h4>
